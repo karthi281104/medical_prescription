@@ -1,0 +1,26 @@
+body {
+    background-color: #F4F7FE;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  .section-title {
+    color: #5A8DEE;
+    font-weight: 600;
+  }
+  
+  .hero {
+    background: linear-gradient(90deg, #5A8DEE, #84b5ff);
+    min-height: 90vh;
+    padding: 50px 20px;
+  }
+  
+  .footer {
+    background-color: #2D3A4B;
+    color: white;
+  }
+  
+  .footer a {
+    color: #FFE600;
+    text-decoration: none;
+  }
+  
